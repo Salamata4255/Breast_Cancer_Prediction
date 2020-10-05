@@ -17,8 +17,8 @@
 - Data Analysis: studied data neatly
 - Data Cleaning: removed useless features
 - ML models: Applied the models one by one
-- Train models
-- Compare test accuracy 
+- Trained models
+- Compared test accuracy 
 
 # Research Poster as a STAR Scholar
 
