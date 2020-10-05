@@ -20,3 +20,5 @@
 - Train models
 - Compare test accuracy 
 
+# Research Poster as a STAR Scholar
+![alt text](http://url/to/STAR Poster.png)
