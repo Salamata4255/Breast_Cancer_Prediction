@@ -21,5 +21,5 @@
 - Compare test accuracy 
 
 # Research Poster as a STAR Scholar
-![alt text](http://url/to/STAR Poster.png)
+
 ![STAR Poster](https://user-images.githubusercontent.com/57270552/95031998-cd9dfe80-0686-11eb-82dc-68fe9a8f7e8e.jpg)
